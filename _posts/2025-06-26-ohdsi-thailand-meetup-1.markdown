@@ -3,6 +3,7 @@ layout: post
 title:  "OHDSI Thailand Meetup #1: OMOP ETL Pipeline by Siriraj"
 date:   2025-06-26 15:05:11 +0700
 categories: meetup
+featured_image: /files/img/OHDSI-Thailand-Meetup-1.jpg
 ---
 
 - Recording: [YouTube](https://www.youtube.com/watch?v=4hujtIM6zJk)
