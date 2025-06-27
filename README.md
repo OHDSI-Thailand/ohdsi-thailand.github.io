@@ -1,1 +1,0 @@
-# ohdsi-thailand.github.io
